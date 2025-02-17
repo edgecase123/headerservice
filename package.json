@@ -1,0 +1,19 @@
+{
+  "name": "headerservice",
+  "version": "1.0.0",
+  "description": "Test project for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgecase123/headerservice.git"
+  },
+  "author": "Lee Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgecase123/headerservice/issues"
+  },
+  "homepage": "https://github.com/edgecase123/headerservice#readme"
+}
